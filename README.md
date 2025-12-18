@@ -127,7 +127,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/rag3frost/healthcare-bot-v2/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/KartikeyT10/healthcare-bot-v2/blob/main/LICENSE.txt) file for details.
 
 ---
 
@@ -141,9 +141,9 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Contact
 
-For questions or feedback, reach out to [Sujal Sakhare](https://github.com/rag3frost).
+For questions or feedback, reach out to [Kartikey Tiwari](https://github.com/rag3frost).
 
-**Project Link**: [https://github.com/rag3frost/healthcare-bot-v2](https://github.com/rag3frost/healthcare-bot-v2)
+**Project Link**: [https://github.com/KartikeyT10/healthcare-bot-v2](https://github.com/KartikeyT10/healthcare-bot-v2)
 
 ---
 
@@ -153,6 +153,6 @@ For questions or feedback, reach out to [Sujal Sakhare](https://github.com/rag3f
 
 ---
 
-Made with ❤️ by [Sujal Sakhare](https://github.com/rag3frost)
+Made with ❤️ by [Kartikey Tiwari](https://github.com/KartikeyT10)
 
 
